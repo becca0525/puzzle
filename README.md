@@ -1,4 +1,5 @@
 졸업작품 제출용으로 만든 모작 Sliding Puzzle
+
 모작에 참고한 영상 -> https://youtu.be/jQZVxJq7Cmk?si=HOnltC35w41NT-rX
 
 실제 게임 플레이 후 게임 종료 버튼과 일시정지버튼이 없음에 불편함을 느껴 UI추가, 영상에서 해결되지 않은 맞춰지지않게 섞이는 오류로 게임 재시작 버튼 추가
